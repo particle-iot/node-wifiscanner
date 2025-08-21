@@ -4,6 +4,7 @@
   "description": "Scan surrounding WiFi access points",
   "author": "Bryce Kahle <bryce@particle.io>",
   "main": "./lib/wifiscanner",
+  "license": "BSD 2-Clause",
   "repository": {
     "type": "git",
     "url": "https://github.com/spark/node-wifiscanner.git"
